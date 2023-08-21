@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.wrapper{
+    background-color: rgb(171, 133, 207);
+    width: 1005;
+    height: 100vh;
+
+}
+.inner{
+    margin: 1rem;
+}
